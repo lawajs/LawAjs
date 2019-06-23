@@ -1,0 +1,22 @@
+#### Cookies popup window element #######
+cookiesAcceptancePopup: '//a[@class="call"]'
+
+ ######## Global English element ################
+globalEnglish: 'a#btnCountrySelector'
+
+###### Search Elements #################
+seachEntryField: 'input#site_search.form-control'
+searchIcon: 'span.glyphicon.glyphicon-search'
+searchTestResult: 'span.CoveoQuerySummary'
+
+#### Sorted by Date Elements ############
+last30DaysDateCheckbox: '#_0AA6359E-A16F-48DD-BBE6-1D666927B525 > ul:nth-child(2) > li:nth-child(3) > label:nth-child(2) > div:nth-child(1) > div:nth-child(2) > span:nth-child(1)'
+last30DaysCaptionText: '//span[@class="coveo-facet-breadcrumb-caption"[contains(text(),"Last 30 Days")]'
+last31DaysToYearAgoCheckbox: '#_0AA6359E-A16F-48DD-BBE6-1D666927B525 > ul:nth-child(2) > li:nth-child(2) > label:nth-child(2) > div:nth-child(1) > div:nth-child(2) > span:nth-child(1)'
+last31DaysToYearAgoCaptionText: '//span[@class="coveo-facet-breadcrumb-caption"[contains(text(),"31 days to a year ago")]'
+overYearAgoCheckbox: '#_0AA6359E-A16F-48DD-BBE6-1D666927B525 > ul:nth-child(2) > li:nth-child(1) > label:nth-child(2) > div:nth-child(1) > div:nth-child(2) > span:nth-child(1)'
+overYearAgoCaptionText: '//span[@class="coveo-facet-breadcrumb-caption"[contains(text(),"Over a year ago")]'
+transportationCheckbox: '#\@findustry47442subl_coveofacets_2 > ul > li:nth-child(4) > label > div > div.coveo-facet-value-checkbox > span'
+sortedByTransportationCaptionText: '//span[@class="coveo-facet-breadcrumb-caption"[contains(text(),"Transportation")]'
+
+menu: '#wtw-header > nav > div > div.navbar-header > button'
